@@ -53,7 +53,7 @@ Verified on GitHub by Phyo T. Oo.
 | Personalized guide         | 1dab442         | `docs: personalize festival visitor guide`    |
 | Visitor access information | 5375500         | `docs: add visitor access information`        |
 | GitHub verification        | 0e83b9d         | `docs: verify independent homework on GitHub` |
-| Final reflection           | [ID]            | `docs: complete independent Git reflection`   |
+| Final reflection           | c9c893d         | `docs: complete independent Git reflection`   |
 
 ## Individual Reflection
 
