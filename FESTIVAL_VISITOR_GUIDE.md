@@ -51,28 +51,28 @@ Verified on GitHub by Phyo T. Oo.
 | Checkpoint                 | Short commit ID | Required message                              |
 | -------------------------- | --------------- | --------------------------------------------- |
 | Personalized guide         | 1dab442         | `docs: personalize festival visitor guide`    |
-| Visitor access information | [ID]            | `docs: add visitor access information`        |
-| GitHub verification        | [ID]            | `docs: verify independent homework on GitHub` |
+| Visitor access information | 5375500         | `docs: add visitor access information`        |
+| GitHub verification        | 0e83b9d         | `docs: verify independent homework on GitHub` |
 | Final reflection           | [ID]            | `docs: complete independent Git reflection`   |
 
 ## Individual Reflection
 
 1. What is the difference between saving a file and committing it?
 
-   [Your answer]
+Saving a file updates the file in the working directory. Committing records the staged changes as a permanent snapshot in the local Git history.
 
 2. What is the difference between `git diff` and `git diff --staged`?
 
-   [Your answer]
+git diff shows unstaged changes in the working directory. git diff --staged shows the changes that have already been staged and are ready to be committed.
 
 3. Why did the GitHub verification sentence not appear locally before `git pull`?
 
-   [Your answer]
+Because the change was made directly on GitHub, so it existed only in the remote repository. git pull downloaded that new commit and updated the local repository.
 
 4. What did `-u` accomplish in `git push -u origin main`?
 
-   [Your answer]
+-u set origin/main as the upstream branch for the local main branch. After that, Git can usually use just git push or git pull.
 
 5. What evidence proves that the local and GitHub repositories are synchronized at the end?
 
-   [Your answer]
+The local main and origin/main point to the same newest commit ID, and git status shows that the branch is up to date and the working tree is clean.
