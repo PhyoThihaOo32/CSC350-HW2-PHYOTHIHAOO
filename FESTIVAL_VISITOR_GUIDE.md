@@ -30,17 +30,17 @@
 
 ## Arrival Information
 
-- Transit or parking: [One specific instruction]
-- Entrance or meeting location: [One specific location]
+- Transit or parking: Take the subway or bus to BMCC’s Main Building at 199 Chambers Street; limited street parking is available nearby.
+- Entrance or meeting location: Meet at the main entrance of the BMCC Main Building on Chambers Street.
 
 ## Accessibility Information
 
-1. [Specific accessibility provision 1]
-2. [Specific accessibility provision 2]
+1. Wheelchair-accessible entrances and elevators are available throughout the BMCC Main Building.
+2. Accessible restrooms and designated seating areas will be available for attendees who need them.
 
 ## Visitor Reminder
 
-[One concise safety or visitor reminder]
+Please follow BMCC safety rules and festival instructions, especially during water activities, to keep the event safe and enjoyable for everyone.
 
 ## GitHub Verification
 
@@ -50,7 +50,7 @@
 
 | Checkpoint                 | Short commit ID | Required message                              |
 | -------------------------- | --------------- | --------------------------------------------- |
-| Personalized guide         | [ID]            | `docs: personalize festival visitor guide`    |
+| Personalized guide         | 1dab442         | `docs: personalize festival visitor guide`    |
 | Visitor access information | [ID]            | `docs: add visitor access information`        |
 | GitHub verification        | [ID]            | `docs: verify independent homework on GitHub` |
 | Final reflection           | [ID]            | `docs: complete independent Git reflection`   |
