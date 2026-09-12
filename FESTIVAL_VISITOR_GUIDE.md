@@ -2,33 +2,31 @@
 
 ## Student Information
 
-- Name: [Your name]
-- Course and section: [Course and section]
-- Date: [Date]
+- Name: Phyo T. Oo
+- Course and section: CSC350H Software Development
+- Date: 12 September 2026
 
 ## Repository Evidence
 
-- Current branch: [Branch name]
-- Personal Homework 2 GitHub URL: [Repository URL]
-- Starting `git status`: [Describe the result]
-- Starting preparation commit ID: [Short ID]
+- Current branch: main
+- Personal Homework 2 GitHub URL: https://github.com/PhyoThihaOo32/CSC350-HW2-PHYOTHIHAOO
+- Starting `git status`: on branch main|nothing to commit, working tree clean
+- Starting preparation commit ID: bd125dd
 
 ## Festival Identity
 
-- Festival name: [Original festival name]
-- Location: [City, venue, or campus location]
-- Intended audience: [Audience]
-- Theme: [One-sentence theme]
+- Festival name: BMCC Myanmar Thingyan Water Festival
+- Location: BMCC Main Building, New York City
+- Intended audience: BMCC students, faculty, staff, and the entire BMCC community
+- Theme: Celebrating the Myanmar New Year through Thingyan traditions, water festivities, music, food, and cultural activities.
 
 ## Prediction Before the First Commit
 
 1. Where does the saved change currently live?
-
-   [Your answer]
+   The saved change currently lives in the local working directory on my computer.
 
 2. Has it been staged or committed?
-
-   [Your answer]
+   No. It has not been staged or committed yet.
 
 ## Arrival Information
 
@@ -50,12 +48,12 @@
 
 ## Commit Evidence
 
-| Checkpoint | Short commit ID | Required message |
-|---|---|---|
-| Personalized guide | [ID] | `docs: personalize festival visitor guide` |
-| Visitor access information | [ID] | `docs: add visitor access information` |
-| GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
-| Final reflection | [ID] | `docs: complete independent Git reflection` |
+| Checkpoint                 | Short commit ID | Required message                              |
+| -------------------------- | --------------- | --------------------------------------------- |
+| Personalized guide         | [ID]            | `docs: personalize festival visitor guide`    |
+| Visitor access information | [ID]            | `docs: add visitor access information`        |
+| GitHub verification        | [ID]            | `docs: verify independent homework on GitHub` |
+| Final reflection           | [ID]            | `docs: complete independent Git reflection`   |
 
 ## Individual Reflection
 
@@ -78,4 +76,3 @@
 5. What evidence proves that the local and GitHub repositories are synchronized at the end?
 
    [Your answer]
-
