@@ -44,7 +44,7 @@ Please follow BMCC safety rules and festival instructions, especially during wat
 
 ## GitHub Verification
 
-[Replace this line on GitHub—not in VS Code]
+Verified on GitHub by Phyo T. Oo.
 
 ## Commit Evidence
 
